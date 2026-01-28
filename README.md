@@ -34,8 +34,6 @@ UGC Creator | OSS Contributor
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiei114&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eiei114&theme=onedark&show_icons=true" />
-</p>
 
 ### 📫 Contact
 
