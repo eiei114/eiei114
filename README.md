@@ -16,7 +16,7 @@ I build open-source tools for AI-assisted development, creator workflows, and UG
 <!-- npm-packages:auto:start -->
 ## npm packages
 
-Download counts are npm last-365-day figures as of 2026-10-22, sorted descending. Badges use npm data via Shields.io. Package list reflects packages currently maintained by [eiei114 on npm](https://www.npmjs.com/~eiei114).
+Download counts are npm last-365-day figures as of 2026-10-23, sorted descending. Badges use npm data via Shields.io. Package list reflects packages currently maintained by [eiei114 on npm](https://www.npmjs.com/~eiei114).
 
 **Portfolio snapshot:** 48 published packages · **127,027** total last 365 days downloads.
 
